@@ -1,0 +1,24 @@
+.flex
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+img
+{
+    text-align: center;
+}
+button
+{
+    margin: 10px;
+}
+button:hover
+{
+    cursor: pointer;
+    background-color:orange;
+    border: #fff;
+}
